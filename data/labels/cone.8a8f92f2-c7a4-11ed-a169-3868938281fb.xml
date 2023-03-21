@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cone.8a8f92f2-c7a4-11ed-a169-3868938281fb.jpg</filename>
+	<path>/home/colinn/Documents/coding/gamepieces/data/images/cone.8a8f92f2-c7a4-11ed-a169-3868938281fb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>299</ymin>
+			<xmax>370</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
